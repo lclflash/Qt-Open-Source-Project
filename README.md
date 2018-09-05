@@ -1,12 +1,16 @@
 # Qt-Open-Source-Project
 
-[EasyPaint](https://github.com/wangyangyangisme/EasyPaint) 类似画图软件
-
 [fjcomm](https://github.com/wangyangyangisme/fjcomm)
 
-
-
 [InternetFashionedInstaller](https://github.com/wangyangyangisme/InternetFashionedInstaller) 打包
+
+Qtcn Tianchi2项目：https://github.com/wangyangyangisme/Tianchi2
+
+# [painter画图]
+
+[StockKLine](https://github.com/wangyangyangisme/StockKLine)股票K线图
+
+[EasyPaint](https://github.com/wangyangyangisme/EasyPaint) 类似画图软件
 
 # [TTK]
 
@@ -79,6 +83,14 @@
 [NEncryptionKit](https://github.com/wangyangyangisme/NEncryptionKit)Qt 加解密组件库
 
 [NLoger](https://github.com/wangyangyangisme/NLoger)Qt 编写的跨线程安装的日志组件库
+
+
+
+# [三国杀]
+
+[QSanguosha-v2](https://github.com/wangyangyangisme/QSanguosha-v2)
+
+[QSanguosha)](https://github.com/wangyangyangisme/QSanguosha)
 
 # [Qt官方]
 
@@ -241,6 +253,10 @@ qtwinmigrate
 [avilib](https://github.com/wangyangyangisme/avilib)
 
 [avilibs](https://github.com/wangyangyangisme/avilibs)
+
+
+
+[Audio-fmodex](https://github.com/wangyangyangisme/Audio-fmodex) 带波形显示音乐播放器Qt5（fmodex）
 
 
 
@@ -448,7 +464,15 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [qextserialport](https://github.com/wangyangyangisme/qextserialport) 串口
 
+[TCP_UDP_COM](https://github.com/wangyangyangisme/TCP_UDP_COM)
 
+[serialport-gyroscope](https://github.com/wangyangyangisme/serialport-gyroscope) QT opengl 航模姿态显示,串口数据传送
+
+[MyChart ](https://github.com/wangyangyangisme/MyChart) 基于CS的Qt聊天
+
+# [序列化]
+
+[protobuf](https://github.com/wangyangyangisme/protobuf) v3
 
 # [控件]
 
@@ -494,7 +518,7 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [Qt-Code-Editor](https://github.com/wangyangyangisme/Qt-Code-Editor)
 
-
+[Blinds](https://github.com/wangyangyangisme/Blinds) 百叶窗
 
 # [物理]
 
@@ -519,6 +543,12 @@ https://ftp.gnu.org/gnu/octave/windows/
 [Qt-AES](https://github.com/wangyangyangisme/Qt-AES)
 
 [cryptopp)](https://github.com/wangyangyangisme/cryptopp)
+
+# [编解码]
+
+[QtCameraEncodeToH264](https://github.com/wangyangyangisme/QtCameraEncodeToH264)
+
+[Utf8ToGbk](https://github.com/wangyangyangisme/Utf8ToGbk)
 
 
 
@@ -699,6 +729,12 @@ https://ftp.gnu.org/gnu/octave/windows/
 [cutegl](https://github.com/wangyangyangisme/cutegl)
 
 [ImageQt](https://github.com/wangyangyangisme/ImageQt)
+
+[ImageProcess](https://github.com/wangyangyangisme/ImageProcess)
+
+
+
+
 
 
 
