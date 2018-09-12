@@ -542,7 +542,9 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [Qt-AES](https://github.com/wangyangyangisme/Qt-AES)
 
-[cryptopp)](https://github.com/wangyangyangisme/cryptopp)
+[cryptopp](https://github.com/wangyangyangisme/cryptopp)
+
+[FileEncrpytion](https://github.com/wangyangyangisme/FileEncrpytion) 文件加密（des）
 
 # [编解码]
 
@@ -615,6 +617,8 @@ https://ftp.gnu.org/gnu/octave/windows/
 [QHotkey](https://github.com/wangyangyangisme/QHotkey) 全局热键 
 
 [QHotkeys](https://github.com/mrousavy/QHotkeys) 跨平台全局热键
+
+[qxtglobalshortcut](https://github.com/wangyangyangisme/qxtglobalshortcut) 热键 
 
 [FramelessHelper](https://github.com/wangyangyangisme/FramelessHelper) 无边框可拖动窗口扩展 window full features
 
@@ -705,6 +709,10 @@ https://ftp.gnu.org/gnu/octave/windows/
 [ImagePseudoColor](https://github.com/wangyangyangisme/ImagePseudoColor) 伪彩色处理程序
 
 [ilong](https://github.com/wangyangyangisme/ilong) 轻量级跨平台瓦片地图库
+
+[VerificationCode](https://github.com/wangyangyangisme/VerificationCode) 验证码
+
+
 
 # [输入法]
 
