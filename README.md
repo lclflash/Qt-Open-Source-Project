@@ -2,15 +2,55 @@
 
 [fjcomm](https://github.com/wangyangyangisme/fjcomm)
 
-[InternetFashionedInstaller](https://github.com/wangyangyangisme/InternetFashionedInstaller) 打包
+[InternetFashionedInstaller](https://github.com/wangyangyangisme/InternetFashionedInstaller) innosetup打包
 
-Qtcn Tianchi2项目：https://github.com/wangyangyangisme/Tianchi2
+
 
 # [painter画图]
 
 [StockKLine](https://github.com/wangyangyangisme/StockKLine)股票K线图
 
 [EasyPaint](https://github.com/wangyangyangisme/EasyPaint) 类似画图软件
+
+[QTexEngine](https://github.com/wangyangyangisme/QTexEngine)
+
+
+
+
+
+# [图表]
+
+[qwt 6.1.3](https://github.com/wangyangyangisme/qwt) 文档http://qwt.sourceforge.net/
+
+[qwtpolar](https://github.com/wangyangyangisme/qwtpolar) 文档http://qwtpolar.sourceforge.net/
+
+[qwtplot3d](https://github.com/wangyangyangisme/qwtplot3d) 文档http://qwtplot3d.sourceforge.net/
+
+[qtiplot](https://github.com/wangyangyangisme/qtiplot)  https://www.qtiplot.com/
+
+[scidavis](https://github.com/wangyangyangisme/scidavis) 文档http://scidavis.sourceforge.net/
+
+[gobchartswidget](https://github.com/wangyangyangisme/gobchartswidget)
+
+[QCustomPlot](https://github.com/wangyangyangisme/QCustomPlot)
+
+[mathgl](https://github.com/wangyangyangisme/mathgl)
+
+
+
+
+
+
+
+# [plugin framework]
+
+[CTK](https://github.com/wangyangyangisme/CTK) 基于Qt
+
+[Ds4Cpp](https://github.com/wangyangyangisme/Ds4Cpp)A component framework for C++ inspired by OSGi Declarative Services.
+
+[CppMicroServices](https://github.com/wangyangyangisme/CppMicroServices)An OSGi-like C++ dynamic module system and service registry
+
+[x3c](https://github.com/wangyangyangisme/x3c) A plugin-framework that uses C++ and STL.
 
 # [TTK]
 
@@ -138,6 +178,15 @@ qtwinmigrate
 
 [QTScada](https://github.com/wangyangyangisme/QTScada) 基于QT 的组态软件 
 
+[tulip](https://github.com/wangyangyangisme/tulip) Large graphs analysis, drawing and visualization framework
+
+[evoplex](https://github.com/wangyangyangisme/evoplex) Evoplex
+is a platform for implementing Agent-Based Models (ABM) and Multi-Agent
+Systems (MAS) imposing a theoretical-graph approach. It's available for
+Windows, Linux and macOS.
+
+
+
 # [libgitlmvc]
 
 [libgitlmvc](https://github.com/wangyangyangisme/libgitlmvc)
@@ -190,6 +239,8 @@ qtwinmigrate
 
 
 
+
+
 # [界面框架]
 
 [QFramer](https://github.com/wangyangyangisme/QFramer) 基于Qt5.3的快速开发框架
@@ -198,7 +249,7 @@ qtwinmigrate
 
 [QtFirebase](https://github.com/wangyangyangisme/QtFirebase)  Google's Firebase C++ API to Qt + QML 
 
-
+[lomox](https://github.com/wangyangyangisme/lomox) example(https://github.com/wangyangyangisme/lomox-example)
 
 
 
@@ -258,6 +309,10 @@ qtwinmigrate
 
 [Audio-fmodex](https://github.com/wangyangyangisme/Audio-fmodex) 带波形显示音乐播放器Qt5（fmodex）
 
+[libqtavi](https://github.com/wangyangyangisme/libqtavi)（封装https://github.com/wangyangyangisme/libgwavi）
+
+[libZPlay](https://github.com/wangyangyangisme/libZPlay)libZPlay库集成了所有支持格式（mp3, mp2, mp1, ogg, flac, ac3, aac, oga, wav and pcm ）的编码解码器。库本身是由WINAPI编写，你无须额外的库，也不需要MFC / .NET的支持，只能在Windows下运行
+
 
 
 # [octave]
@@ -315,6 +370,12 @@ https://ftp.gnu.org/gnu/octave/windows/
 [WtDesigner](https://github.com/wangyangyangisme/WtDesigner)
 
 [LibrePCB](https://github.com/wangyangyangisme/LibrePCB)
+
+[qt5Calculator](https://github.com/wangyangyangisme/qt5Calculator)多功能计算器
+
+[Yarock](https://github.com/wangyangyangisme/Yarock)音乐播放器
+
+[keme5](https://github.com/wangyangyangisme/keme5) 会计软件
 
 
 
@@ -379,6 +440,20 @@ https://ftp.gnu.org/gnu/octave/windows/
 [QtRedisClient](https://github.com/wangyangyangisme/QtRedisClient) Redis在Qt下的封装 
 
 [QtRedis](https://github.com/wangyangyangisme/QtRedis)
+
+[dtl](https://github.com/wangyangyangisme/dtl) ODBC 
+
+[QtPersistence](https://github.com/wangyangyangisme/QtPersistence) QtPersistence is a project to create an ORM library for Qt Users. 
+
+[QST](https://github.com/wangyangyangisme/QST) PostgreSQL 
+
+[hiberlite](https://github.com/wangyangyangisme/hiberlite) C++ ORM for SQLite
+
+
+
+
+
+
 
 # [日志系统]
 
@@ -460,6 +535,8 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [libmodbus](https://github.com/wangyangyangisme/libmodbus) c语言
 
+[qCOM_Modbus](https://github.com/wangyangyangisme/qCOM_Modbus)
+
 [freeopcua](https://github.com/wangyangyangisme/freeopcua)
 
 [qextserialport](https://github.com/wangyangyangisme/qextserialport) 串口
@@ -469,6 +546,18 @@ https://ftp.gnu.org/gnu/octave/windows/
 [serialport-gyroscope](https://github.com/wangyangyangisme/serialport-gyroscope) QT opengl 航模姿态显示,串口数据传送
 
 [MyChart ](https://github.com/wangyangyangisme/MyChart) 基于CS的Qt聊天
+
+[ThreadSerialport](https://github.com/wangyangyangisme/ThreadSerialport)支持线程的串口类封装
+
+[qxmpp](https://github.com/wangyangyangisme/qxmpp)
+
+[libjingle](https://github.com/wangyangyangisme/libjingle)
+
+[gloox](https://github.com/wangyangyangisme/gloox)
+
+
+
+
 
 # [序列化]
 
@@ -520,6 +609,24 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [Blinds](https://github.com/wangyangyangisme/Blinds) 百叶窗
 
+[QScintilla2](https://github.com/wangyangyangisme/QScintilla) 文本编辑器
+
+[QSint](https://github.com/wangyangyangisme/QSint) Includes several Qt widgets, charting, property editors etc.
+
+[libqxt](https://github.com/wangyangyangisme/libqxt)
+
+[Qicstable](https://github.com/wangyangyangisme/Qicstable)
+
+[qaiv](https://github.com/wangyangyangisme/qaiv) 自定义的QTableWidget
+
+[wwWidgets](https://github.com/wangyangyangisme/wwWidgets)自定义控件
+
+[dmsnavigation](https://github.com/wangyangyangisme/dmsnavigation)
+
+
+
+
+
 # [物理]
 
 [Box2D](https://github.com/wangyangyangisme/Box2D)
@@ -536,7 +643,7 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [QLib7z](https://github.com/wangyangyangisme/QLib7z)
 
-[quazip)](https://github.com/wangyangyangisme/quazip)
+[quazip](https://github.com/wangyangyangisme/quazip)
 
 # [加密]
 
@@ -545,6 +652,8 @@ https://ftp.gnu.org/gnu/octave/windows/
 [cryptopp](https://github.com/wangyangyangisme/cryptopp)
 
 [FileEncrpytion](https://github.com/wangyangyangisme/FileEncrpytion) 文件加密（des）
+
+[qca](https://github.com/wangyangyangisme/qca)（https://github.com/wangyangyangisme/qca-ossl）
 
 # [编解码]
 
@@ -582,6 +691,52 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [libiconv](https://github.com/wangyangyangisme/libiconv)
 
+[csvimp](https://github.com/wangyangyangisme/csvimp) 读写csv
+
+[csvmodel](https://github.com/wangyangyangisme/csvmodel)
+
+[openrpt](https://github.com/wangyangyangisme/openrpt) Graphical SQL report writer, designer and rendering engine, optimized for PostgreSQL. WYSIWYG display, GUI built with Qt, runs on Linux, Windows, Mac OS X. Reports can be saved as XML, either as files or in a database.
+
+[LineGraph](https://github.com/wangyangyangisme/LineGraph) Line graph demo written in c++ and Qt that reads and displays csv file data
+
+[qtcsv](https://github.com/wangyangyangisme/qtcsv) Library for reading and writing csv-files in Qt.
+
+[SearchCSV](https://github.com/wangyangyangisme/SearchCSV) Search CSV files with a regular expression. Qt GUI.
+
+[Report](https://github.com/wangyangyangisme/Report) csv
+
+[rft2html](https://github.com/wangyangyangisme/rft2html)A RTF to HTML converter properly recognizing hyperlinks
+
+[QRTFWidget](https://github.com/wangyangyangisme/QRTFWidget)A QT widget able to display RTF content.
+
+[rtfcpp](https://github.com/wangyangyangisme/rtfcpp)C++ Rtf writer library
+
+[rtf2html](https://github.com/wangyangyangisme/rtf2html)
+
+[4d-plugin-RTF2TEXT](https://github.com/wangyangyangisme/4d-plugin-RTF2TEXT)Convert RTF to plain text
+
+[rtflib](https://github.com/wangyangyangisme/rtflib)
+
+[rtf-converter](https://github.com/wangyangyangisme/rtf-converter)
+
+[librtf](https://github.com/wangyangyangisme/librtf)
+
+[rtf-editor](https://github.com/wangyangyangisme/rtf-editor)
+
+[rtfparse](https://github.com/wangyangyangisme/rtfparse)
+
+[xlslib](https://github.com/wangyangyangisme/xlslib)C++/C library to construct Excel .xls files in code. Official git repo. 
+
+[OfficeOperation](https://github.com/wangyangyangisme/OfficeOperation)对offile包括Excel和Word的相关的，版面设置，数据读写，格式设置，背景设置，等一系列的操作
+
+[fann-excel](https://github.com/wangyangyangisme/fann-excel)
+
+[csv2xls](https://github.com/wangyangyangisme/csv2xls)csv2xls (csv to xls) is a command line utility which converts csv files into one (or more if splitted) Excel(TM) files.
+
+
+
+
+
 # [报表]
 
 [QtRptProject](https://github.com/wangyangyangisme/QtRptProject)
@@ -592,7 +747,13 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [LimeReport ](https://github.com/wangyangyangisme/LimeReport) Report generator for Qt Framework 
 
+# [地图]
 
+[lightmap](https://github.com/wangyangyangisme/lightmap) Qt和百度地图交互示例
+
+[QMapControl](https://github.com/wangyangyangisme/QMapControl)
+
+[QGIS](https://github.com/wangyangyangisme/QGIS)
 
 
 
@@ -712,6 +873,10 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [VerificationCode](https://github.com/wangyangyangisme/VerificationCode) 验证码
 
+[ThreadDownload](https://github.com/wangyangyangisme/ThreadDownload)多线程下载器
+
+[QtHz2Py](https://github.com/wangyangyangisme/QtHz2Py) 简繁转换和生成拼音
+
 
 
 # [输入法]
@@ -740,7 +905,7 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [ImageProcess](https://github.com/wangyangyangisme/ImageProcess)
 
-
+[FreeGLUT](https://github.com/wangyangyangisme/FreeGLUT)（https://github.com/wangyangyangisme/Hello-GLUT）
 
 
 
@@ -754,8 +919,20 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [Qtilities](https://github.com/wangyangyangisme/Qtilities)
 
+[Qtcn Tianchi2项目](https://github.com/wangyangyangisme/Tianchi2)
+
+[Conan](https://github.com/wangyangyangisme/Conan) Connection analyzer for Qt is a C++ library that provides visual run-time introspection of QObject hierarchies,
+
 
 
 # [QtAndroid]
 
 [qtandroidextensions](https://github.com/wangyangyangisme/qtandroidextensions) Qt Android Helpers and Native Views 
+
+
+
+# [工具]
+
+[QRegExp-Editor](https://github.com/wangyangyangisme/QRegExp-Editor)This is a simple application to test QRegExps.
+
+[QtRegExpTester](https://github.com/wangyangyangisme/QtRegExpTester)
