@@ -22,6 +22,12 @@
 
 [StandGL](https://github.com/wangyangyangisme/StandGL)Stand motion in GLSL+QML
 
+[ShaderToy.qml](https://github.com/fly204/ShaderToy.qml)ShaderToy demo by QML.
+
+
+
+
+
 
 
 # [项目]
@@ -173,6 +179,18 @@ OpenStreetMap)
 
 [QMLPlayer](https://github.com/wangyangyangisme/QMLPlayer)
 
+[iTravel](https://github.com/wangyangyangisme/iTravel)
+
+
+
+[qt-apps-qmllive](https://github.com/wangyangyangisme/qt-apps-qmllive)It is available for the PC but also for an embedded device, which supports Qt5.
+
+[QRegovar](https://github.com/wangyangyangisme/QRegovar)The official heavy client (in Qt) of the Regovar project
+
+
+
+
+
 
 
 # [图表]
@@ -225,6 +243,18 @@ OpenStreetMap)
 
 [material](https://github.com/wangyangyangisme/material)
 
+[codesnippets-joona](https://github.com/wangyangyangisme/codesnippets-joona)
+
+
+
+ 一个快速搭建Flat UI 的Qt Quick框架
+
+
+
+
+
+
+
 
 
 # [音视频]
@@ -237,7 +267,11 @@ OpenStreetMap)
 
 [qml-audio-player](https://github.com/wangyangyangisme/qml-audio-player)Test QML/JS app created in QT5. App is an audio player with basic player functionalities.
 
+[QFFmpeg-OpenAL](https://github.com/wangyangyangisme/QFFmpeg-OpenAL) 
 
+[VideoItem](https://github.com/wangyangyangisme/VideoItem)Wrap ffmpge api by c++ and register in qml. You can use the qml type VideoItem such as QtMutilMedia.
+
+[AudioTestByFFmpeg)](https://github.com/wangyangyangisme/AudioTestByFFmpeg)Use ffmpeg decode audio file, QAudioOutput play the sound.
 
 # [game]
 
@@ -254,6 +288,28 @@ OpenStreetMap)
 [SlidingPuzzleQml](https://github.com/leonardogcsoares/SlidingPuzzleQml)
 
 [qmlplane](https://github.com/wangyangyangisme/qmlplane)
+
+
+
+
+
+[Player](https://github.com/wangyangyangisme/Player)EasyRPG Player is a program that allows to play games created with RPG Maker 2000 and 2003.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -345,6 +401,12 @@ OpenStreetMap)
 
 [QmlGalleryclock](https://github.com/wangyangyangisme/QmlGalleryclock)
 
+[fancy-components](https://github.com/wangyangyangisme/fancy-components)
+
+[CircularProgress.qml](https://github.com/wangyangyangisme/CircularProgress.qml)CircularProgress
+
+
+
 
 
 
@@ -407,11 +469,15 @@ OpenStreetMap)
 
 [MyShoppingList](https://github.com/wangyangyangisme/MyShoppingList)
 
+[QRab](https://github.com/wangyangyangisme/QRab) 二维码
+
+[QtQuickHotFix](https://github.com/wangyangyangisme/QtQuickHotFix)QtQuick Hot Fix. 尝试给 QtQuick 应用提供热补订技术。
 
 
 
+# [数据库]
 
-
+[sqml](https://github.com/wangyangyangisme/sqml)Simple layering CRUD (sqlite orm) for qml
 
 
 
@@ -422,6 +488,22 @@ OpenStreetMap)
 [qml-sockets](https://github.com/wangyangyangisme/qml-sockets)Exposing Qt's C++ socket objects to QML for declarative use.
 
 [protobuf-qml](https://github.com/wangyangyangisme/protobuf-qml)Protocol Buffers and gRPC binding for QML (QtQuick2)
+
+[qt-websocket-protobuf](https://github.com/wangyangyangisme/qt-websocket-protobuf)
+
+[BlockChainInfo.qml](https://github.com/wangyangyangisme/BlockChainInfo.qml)blockchain.info websocket api warp by qml
+
+[HttpRequest](https://github.com/wangyangyangisme/HttpRequest)   `` 使用 Qt 的网络模块编写。通过注册到 QML 中，就可以像使用 `XMLHttpRequest` 那样使用了
+
+
+
+[QmlNetwork](https://github.com/wangyangyangisme/QmlNetwork)
+
+
+
+
+
+
 
 # [camera]
 
@@ -457,11 +539,49 @@ OpenStreetMap)
 
 [qml-singleton-issue](https://github.com/wangyangyangisme/qml-singleton-issue)  qml单例问题
 
+[fluffy.qml](https://github.com/wangyangyangisme/fluffy.qml)Singleton thread for http handle in qml.
+
 [qml-singleton-set-data](https://github.com/wangyangyangisme/qml-singleton-set-data)
 
 [qmlsoporte](https://github.com/wangyangyangisme/qmlsoporte)
 
 [LearnQML](https://github.com/wangyangyangisme/LearnQML)QML 与 C++混合编程
+
+[tool](https://github.com/wangyangyangisme/tool)
+
+[DirectBroadcast.qml](https://github.com/wangyangyangisme/DirectBroadcast.qml)使用 `Camera` 将捕获的画面传送给 `VideoOutput` 展示
+
+[InstanceOf.qml](https://github.com/wangyangyangisme/InstanceOf.qml)检查某个 QML 对象是否是某个类型的实例。
+
+[QmlThread](https://github.com/wangyangyangisme/QmlThread)More powerful Thread module in QML.
+
+[qml_snippets](https://github.com/wangyangyangisme/qml_snippets)
+
+
+
+# [Android]
+
+[StandardQtOnAndroid](https://github.com/wangyangyangisme/StandardQtOnAndroid)  QtQuick 开发安卓的模板项目
+
+[quicknative](https://github.com/wangyangyangisme/quicknative)   封装了 Android 和 IOS 的原生对话框
+
+[QtForAndroid](https://github.com/wangyangyangisme/QtForAndroid)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

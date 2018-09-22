@@ -379,6 +379,14 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 
 
+[vr-alph](https://github.com/wangyangyangisme/vr-alpha) Jahshaka Virtual Reality Content Creation Studio
+
+[Studio](https://github.com/wangyangyangisme/Studio)Jahshaka Virtual Reality Content Creation Studio
+
+
+
+
+
 # [IDE]
 
 [liteide](https://github.com/wangyangyangisme/liteide) LiteIDE is a simple, open source, cross-platform Go IDE
@@ -389,7 +397,11 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [Envision](https://github.com/wangyangyangisme/Envision) visual structured editor
 
+[monkeystudio](https://github.com/wangyangyangisme/monkeystudio)
 
+[qdevelop](https://github.com/wangyangyangisme/qdevelop)
+
+[edyuk](https://github.com/wangyangyangisme/edyuk) ide for qt
 
 
 
