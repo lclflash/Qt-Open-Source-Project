@@ -1,5 +1,13 @@
 # Qt-Open-Source-Project
 
+libQt https://gitee.com/drabel
+
+
+
+
+
+
+
 [fjcomm](https://github.com/wangyangyangisme/fjcomm)
 
 [InternetFashionedInstaller](https://github.com/wangyangyangisme/InternetFashionedInstaller) innosetup打包
@@ -237,6 +245,8 @@ Windows, Linux and macOS.
 
 [QCircuitFaultEditor](https://github.com/wangyangyangisme/QCircuitFaultEditor)
 
+[CustomStyle](https://github.com/wangyangyangisme/CustomStyle)Qt各种控件（包括：QLabel/QTextEdit/QProgressbar/QLineEdit/QPushButton等）bootstrap风格样式
+
 
 
 
@@ -250,6 +260,8 @@ Windows, Linux and macOS.
 [QtFirebase](https://github.com/wangyangyangisme/QtFirebase)  Google's Firebase C++ API to Qt + QML 
 
 [lomox](https://github.com/wangyangyangisme/lomox) example(https://github.com/wangyangyangisme/lomox-example)
+
+[JUCE](https://github.com/wangyangyangisme/JUCE)
 
 
 
@@ -383,7 +395,7 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [Studio](https://github.com/wangyangyangisme/Studio)Jahshaka Virtual Reality Content Creation Studio
 
-
+[QtDeskTop](https://github.com/wangyangyangisme/QtDeskTop)OS desktop developed by Qt.一款类似于win10的桌面系统，目前支持UKEY实名认证登录，软件中心，软件管理，待办事项定制处理等
 
 
 
@@ -461,7 +473,7 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [hiberlite](https://github.com/wangyangyangisme/hiberlite) C++ ORM for SQLite
 
-
+[ormpp 是modern c++(c++11/14/17)开发的ORM库，目前支持了三种数据库：mysql, postgresql和sqlite
 
 
 
@@ -567,13 +579,19 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [gloox](https://github.com/wangyangyangisme/gloox)
 
+[pvbaddon](https://github.com/wangyangyangisme/pvbaddon)
 
-
-
+[MonaServer)](https://github.com/wangyangyangisme/MonaServer)A lightweight RTMFP, RTMP, WebSocket and HTTP server!
 
 # [序列化]
 
 [protobuf](https://github.com/wangyangyangisme/protobuf) v3
+
+[protobuf-qt](https://github.com/wangyangyangisme/protobuf-qt)
+
+
+
+
 
 # [控件]
 
@@ -634,6 +652,10 @@ https://ftp.gnu.org/gnu/octave/windows/
 [wwWidgets](https://github.com/wangyangyangisme/wwWidgets)自定义控件
 
 [dmsnavigation](https://github.com/wangyangyangisme/dmsnavigation)
+
+[resizeAnimation](https://github.com/wangyangyangisme/resizeAnimation)Playing with Qt widget animation & graphics effect 
+
+[qzues](https://github.com/wangyangyangisme/qzues) An extension lib of Qt
 
 
 

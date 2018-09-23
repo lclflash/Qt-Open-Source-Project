@@ -247,9 +247,9 @@ OpenStreetMap)
 
 
 
- 一个快速搭建Flat UI 的Qt Quick框架
+[QuickFrame](https://github.com/wangyangyangisme/QuickFrame) 一个快速搭建Flat UI 的Qt Quick框架
 
-
+[qml-material](https://github.com/wangyangyangisme/qml-material)一款已经封装好的框架材料
 
 
 
