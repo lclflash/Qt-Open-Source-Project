@@ -12,6 +12,14 @@ libQt https://gitee.com/drabel
 
 [InternetFashionedInstaller](https://github.com/wangyangyangisme/InternetFashionedInstaller) innosetup打包
 
+# [样式]
+
+[QDarkStyleSheet](https://github.com/wangyangyangisme/QDarkStyleSheet) A dark style sheet for QtWidgets application
+
+
+
+
+
 
 
 # [painter画图]
@@ -195,6 +203,14 @@ Windows, Linux and macOS.
 
 
 
+# [OPENGL]
+
+[OpenSceneGraph](https://github.com/wangyangyangisme/OpenSceneGraph)OpenSceneGraph（简称OSG）使用OpenGL技术开发，是一套基于C++平台的应用程序接口（API）
+
+
+
+
+
 # [libgitlmvc]
 
 [libgitlmvc](https://github.com/wangyangyangisme/libgitlmvc)
@@ -263,7 +279,7 @@ Windows, Linux and macOS.
 
 [JUCE](https://github.com/wangyangyangisme/JUCE)
 
-
+[QQLikeUI](https://github.com/wangyangyangisme/QQLikeUI)Qt实现的高仿QQ6.x UI
 
 # [信号处理]
 
@@ -483,6 +499,12 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [Log4Qt](https://github.com/wangyangyangisme/Log4Qt)（[Log4Qt-examples](https://github.com/wangyangyangisme/Log4Qt-examples)）
 
+[log4qt](https://github.com/wangyangyangisme/log4qt-1)
+
+
+
+[Ring-Log](https://github.com/wangyangyangisme/Ring-Log)Ring-Log是一个高效简洁的C++异步日志， 其特点是效率高（每秒支持至少125万+日志写入）、易拓展，尤其适用于频繁写日志的场景
+
 [SimpleQtLogger](https://github.com/wangyangyangisme/SimpleQtLogger)
 
 [CuteLogger](https://github.com/wangyangyangisme/CuteLogger)
@@ -491,7 +513,15 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [LoggerCpp](https://github.com/wangyangyangisme/LoggerCpp)
 
+[plog](https://github.com/wangyangyangisme/plog)
 
+[capture-thread](https://github.com/wangyangyangisme/capture-thread)Framework for loggers, tracers, and mockers in multithreaded C++ programs.
+
+[g3log](https://github.com/wangyangyangisme/g3log)
+
+[mini-async-log](https://github.com/wangyangyangisme/mini-async-log)
+
+[DebugLogger](https://github.com/wangyangyangisme/DebugLogger)
 
 
 
@@ -657,6 +687,28 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [qzues](https://github.com/wangyangyangisme/qzues) An extension lib of Qt
 
+[edbee-lib](https://github.com/wangyangyangisme/edbee-lib) QWidget based Text Editor Component for Qt. Multi-caret, Textmate grammar and highlighting support. 
+
+[QtCreator-ColorPickerPlugin](https://github.com/wangyangyangisme/QtCreator-ColorPickerPlugin) A color picker plugin for QtCreator.
+
+
+
+
+
+# [软件异常上报]
+
+[libcrashreporter-qt](https://github.com/wangyangyangisme/libcrashreporter-qt) 软件崩溃上报 基于Google Breakpad 
+
+[qBreakpad](https://github.com/wangyangyangisme/qBreakpad) Cross-platform Qt crash handler  Google Breakpad 
+
+[CrashReporter-Qt-Breakpad](https://github.com/wangyangyangisme/CrashReporter-Qt-Breakpad)CrashReporter using Qt and breakpad
+
+[qt-breakpad](https://github.com/wangyangyangisme/qt-breakpad)This a demo to handle c++ crash with google breakpad and launch a Qt app to send crash log back to server.
+
+[breakpad](https://github.com/wangyangyangisme/breakpad)
+
+[CrashReporter](https://github.com/wangyangyangisme/CrashReporter)
+
 
 
 
@@ -678,6 +730,12 @@ https://ftp.gnu.org/gnu/octave/windows/
 [QLib7z](https://github.com/wangyangyangisme/QLib7z)
 
 [quazip](https://github.com/wangyangyangisme/quazip)
+
+[QtIOCompressor](https://github.com/wangyangyangisme/QtIOCompressor)QtIOCompressor is a QIODevice that compresses data streams.
+
+
+
+
 
 # [加密]
 
@@ -791,6 +849,76 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 
 
+# [热插拔]
+
+[udevpp](https://github.com/wangyangyangisme/udevpp) A C++ wrapper for udev
+
+[udevnotifier](https://github.com/wangyangyangisme/udevnotifier) 在linux判断设备的热插拔
+
+[qdevicewatcher](https://github.com/wangyangyangisme/qdevicewatcher)在linux判断设备的热插拔
+
+[QUdev](https://github.com/wangyangyangisme/QUdev)A very simple udev interface for Qt.
+
+[qtudev](https://github.com/wangyangyangisme/qtudev) Qt-style wrapper around udev
+
+[hotplug](https://github.com/wangyangyangisme/hotplug)Library provides tools to watch for devices hot plug notifications
+
+
+
+
+
+# [USB]
+
+[libusb](https://github.com/wangyangyangisme/libusb)A cross-platform library to access USB devices 
+
+[libusbx](https://github.com/wangyangyangisme/libusbx)
+
+[libusbk](https://github.com/wangyangyangisme/libusbk)
+
+[libusbnet](https://github.com/wangyangyangisme/libusbnet)libusb wrapper to enable communication with USB devices over TCP/IP
+
+[USBProxy](https://github.com/wangyangyangisme/USBProxy)A proxy for USB devices, libUSB and gadgetFS 
+
+[QUSB](https://github.com/wangyangyangisme/QUSB)Qt wrapper classes for LibUSB 1.0
+
+[hidviz](https://github.com/wangyangyangisme/hidviz)A tool for in-depth analysis of USB HID devices communication
+
+[libhidx](https://github.com/wangyangyangisme/libhidx)
+
+[usb-notifier](https://github.com/wangyangyangisme/usb-notifier)A Qt/C++wrapper around libusb in order to easily detect usb device attach/detach actions
+
+[easyusb](https://github.com/wangyangyangisme/easyusb)Using simple and easy of usb (using libusb).
+
+[qtlibusb](https://github.com/wangyangyangisme/qtlibusb)Qt wrapper around libusb
+
+[google-libusb](https://github.com/wangyangyangisme/google-libusb)
+
+[QtUsb](https://github.com/wangyangyangisme/QtUsb)Simple usb device setup loger via libusb.
+
+[QtUSB-1](https://github.com/wangyangyangisme/QtUSB-1)Qt USB lib that doesn't use libusb as a base
+
+[USBHotPlugQt](https://github.com/wangyangyangisme/USBHotPlugQt)This is a demo for libusb hot plug callback function
+
+[qusbmon](https://github.com/wangyangyangisme/qusbmon) Usb monitor for Linux, based on Qt
+
+
+
+
+
+[hidapi](https://github.com/wangyangyangisme/hidapi)A Simple library for communicating with USB and Bluetooth HID devices on Linux, Mac, and Windows.
+
+[hid](https://github.com/wangyangyangisme/hid)Gopher Interface Devices (USB HID)
+
+[usbhid](https://github.com/wangyangyangisme/usbhid)
+
+[qt-bluehid-service](https://github.com/wangyangyangisme/qt-bluehid-service)A Qt library used to make bluetooth devices work as HID (Human Interface Device) devices.
+
+[qtxhid](https://github.com/wangyangyangisme/qtxhid)Qt classes for communicating with HID devices.
+
+
+
+[ImageCapture](https://github.com/wangyangyangisme/ImageCapture)A demo which takes video from one or more webcams or USB capture devices
+
 # [功能] 
 
 [QVision](https://github.com/wangyangyangisme/QVision)  基于QT的计算机视觉库
@@ -800,10 +928,6 @@ https://ftp.gnu.org/gnu/octave/windows/
 [Qt-Rotating-Widge](https://github.com/wangyangyangisme/Qt-Rotating-Widget) 窗体翻转效果
 
 [Qt_FastTableWidget](https://github.com/wangyangyangisme/Qt_FastTableWidget)强大的快速插入大量数据的自定义tablewidget
-
-[udevnotifier](https://github.com/wangyangyangisme/udevnotifier) 在linux判断设备的热插拔
-
-[qdevicewatcher](https://github.com/wangyangyangisme/qdevicewatcher)在linux判断设备的热插拔
 
 [qt-notify](https://github.com/wangyangyangisme/qt-notify) 右下角通知，可同时显示多个
 
@@ -834,10 +958,6 @@ https://ftp.gnu.org/gnu/octave/windows/
 [flameshot](https://github.com/wangyangyangisme/flameshot) 强大的截屏工具
 
 [OEasyScreenshot](https://github.com/wangyangyangisme/OEasyScreenshot) 截屏工具
-
-[libcrashreporter-qt](https://github.com/wangyangyangisme/libcrashreporter-qt) 软件崩溃上报 基于Google Breakpad 
-
-[qBreakpad](https://github.com/wangyangyangisme/qBreakpad) Cross-platform Qt crash handler  Google Breakpad 
 
 
 
@@ -970,3 +1090,13 @@ https://ftp.gnu.org/gnu/octave/windows/
 [QRegExp-Editor](https://github.com/wangyangyangisme/QRegExp-Editor)This is a simple application to test QRegExps.
 
 [QtRegExpTester](https://github.com/wangyangyangisme/QtRegExpTester)
+
+
+
+
+
+
+
+# [字符编码]
+
+[unicorn](https://github.com/unicorn-engine/unicorn)
