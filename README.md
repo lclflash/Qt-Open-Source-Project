@@ -201,6 +201,10 @@ is a platform for implementing Agent-Based Models (ABM) and Multi-Agent
 Systems (MAS) imposing a theoretical-graph approach. It's available for
 Windows, Linux and macOS.
 
+[InteraciveView](https://github.com/wangyangyangisme/InteraciveView) 视图鼠标处缩放
+
+
+
 
 
 # [OPENGL]
@@ -1061,7 +1065,9 @@ https://ftp.gnu.org/gnu/octave/windows/
 
 [FreeGLUT](https://github.com/wangyangyangisme/FreeGLUT)（https://github.com/wangyangyangisme/Hello-GLUT）
 
+[ImageViewer](https://github.com/wangyangyangisme/ImageViewer) 缩略图 QThread
 
+[qtimageviewer](https://github.com/wangyangyangisme/qtimageviewer) 缩略图 QtConcurrent 
 
 
 
